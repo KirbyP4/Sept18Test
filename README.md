@@ -16,5 +16,6 @@
 | Push       | To add changes to master branch                              | `git push origin master`         |
 | Pull       | To update local repositry with changes made to master branch | `git pull`                       |
 
+:penguin:
 
 [logo]: github.png "GitHub Logo"
