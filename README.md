@@ -1,5 +1,5 @@
 # Sept18Test
-*First repository to learn **GIT** *
+*First repository to learn **GIT***
 
 ![alt text][logo]
 
