@@ -3,7 +3,7 @@ First repository to learn GIT
 
 ![alt text][logo]
 
-####Using bulletpoints:
+#### Using bulletpoints:
 - Use a dash
 - For each separate point
 - Remember a space after the dash
