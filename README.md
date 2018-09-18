@@ -8,4 +8,4 @@ Using bulletpoints:
 
 ![alt text][logo]
 
-[logo]: C:\GIT\github.png "GitHub Logo"
+[logo]: github.png "GitHub Logo"
